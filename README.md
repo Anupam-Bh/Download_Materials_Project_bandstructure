@@ -1,4 +1,4 @@
-# Download_Materials_Project_bandstrcutre
+# Download_Materials_Project_bandstructure
 
 This script downloads bandstructures from Materials Project within a given range of material-id. The starting id is to be given in the 'data_index' file as a number. This file updates after every iteration. The final id is given in the script.sh file. 
 
