@@ -3,7 +3,7 @@
 This script downloads bandstructures from Materials Project within a given range of material-id. The starting id is to be given in the 'data_index' file as a sinle digit. This file updates after every iteration. The final id is given in the script.sh file. 
 
 Prerequisites:
-1. Pymatgen must be installed as an anaconda package. Change 11-12th line to match your system. 
+1. Pymatgen must be installed as an anaconda package. Change 11-12th lines to match your system. 
 2. You must get a MPRester-ID. This has to be obtained from the Materials Project website. Update this ID inside the quotes in line 33.
 
 Each image will be saved in PNG format with a fixed resolution of 250X150. 
