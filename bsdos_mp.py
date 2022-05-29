@@ -10,7 +10,7 @@ aa=float(ff.read())
 ff.close()
 id_min=int(aa)
 id_max=13
-m = MPRester("mlPI7uFhEWfMe3nHi")
+m = MPRester("*****")
 
 for i in range(id_min,id_max):
     os.remove("data_index")
