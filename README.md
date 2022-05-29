@@ -1,6 +1,6 @@
 # Download_Materials_Project_bandstrcutre
 
-This script downloads bandstructures from Materials Project within a given range of material-id. The starting id is to be given in the 'data_index' file as a sinle digit. This file updates after every iteration. The final id is given in the script.sh file. 
+This script downloads bandstructures from Materials Project within a given range of material-id. The starting id is to be given in the 'data_index' file as a number. This file updates after every iteration. The final id is given in the script.sh file. 
 
 Prerequisites:
 1. Pymatgen must be installed as an anaconda package. Change 11-12th lines to match your system. 
