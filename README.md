@@ -7,6 +7,9 @@ Prerequisites:
 2. You must get a MPRester-ID. This has to be obtained from the Materials Project website. Update this ID inside the quotes in line 33.
 
 Each image will be saved in PNG format with a fixed resolution of 250X150. 
+
 For facilitating image based ML applications, the bandstructures are stripped of every feature except the curves of the bands. However, a horizontal line at the Fermi energy will still be present and to remove that one need to edit '~/anaconda3/envs/pymatgen/lib/python3.9/site-packages/pymatgen/electronic_structure/plotter.py'
+
 The final image will look like following:
-![mp-223_GeO2](https://user-images.githubusercontent.com/106304435/170889176-e9279f92-f057-4cb6-9531-90a100e7fd45.png)
+
+![mp-276_TbNi2](https://user-images.githubusercontent.com/106304435/170889297-561121ec-f055-4e4b-96aa-f037194d18af.png)
